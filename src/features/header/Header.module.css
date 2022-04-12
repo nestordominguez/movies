@@ -1,0 +1,35 @@
+.header {
+  background-image: url("../../assets/header.png");
+  color: white;
+  margin-bottom: 90px;
+  padding-left: 95px;
+  padding-top: 195px;
+  height: auto;
+  background-repeat: no-repeat;
+}
+
+.box {
+  align-items: center;
+  background-color: #F7CF71;
+  border-radius: 6px;
+  display: flex;
+  height: 72px;
+  justify-content: center;
+  margin-bottom: 36px;
+  width: 72px;
+}
+
+.h1 {
+  font: 700 bold;
+  font-size: 54px;
+}
+
+.p {
+  font: 400 regular;
+  font-size: 20px;
+}
+
+.text {
+  width: 650px;
+  padding-bottom: 300px;
+}

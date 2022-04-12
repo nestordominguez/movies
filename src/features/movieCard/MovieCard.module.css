@@ -1,0 +1,10 @@
+.movieCard {
+  width: 188px;
+  height: 340px;
+}
+
+.image {
+  height: 282px;
+  width: inherit;
+  border: 1px black solid;
+}
